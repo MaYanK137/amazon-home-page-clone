@@ -1,3 +1,3 @@
 # amazon-home-page-clone
-This is clone of amazon home page 
-created by using only HTML & CSS.
+This is a clone of amazon home page 
+created by using HTML & CSS.
